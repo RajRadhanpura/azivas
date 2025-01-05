@@ -1,0 +1,724 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6487d58e78b5478ce2e0f80b_wave_1.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487d58e78b5478ce2e0f80b_wave_1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6487d58f89ef2e3ed3ceb354_wave_2.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487d58f89ef2e3ed3ceb354_wave_2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98246434dae6dfb48788_slider_3-p-1080.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98246434dae6dfb48788_slider_3-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98246434dae6dfb48788_slider_3-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98246434dae6dfb48788_slider_3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98246434dae6dfb48788_slider_3-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98246434dae6dfb48788_slider_3-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98246434dae6dfb48788_slider_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98246434dae6dfb48788_slider_3-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1-p-1080.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1-p-1600.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2-p-1080.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2-p-1600.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a19e26cd07c0c1ff741_banner_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a19e26cd07c0c1ff741_banner_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a19e26cd07c0c1ff741_banner_2-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a19e26cd07c0c1ff741_banner_2-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a19e26cd07c0c1ff741_banner_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a19e26cd07c0c1ff741_banner_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a1a117ce09c57628239_banner_1-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a1a117ce09c57628239_banner_1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a1a117ce09c57628239_banner_1-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a1a117ce09c57628239_banner_1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d0a1a117ce09c57628239_banner_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a1a117ce09c57628239_banner_1-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers-p-1080.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers-p-1600.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers-p-800.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beb292fcaf91194002d_gallery_line_3-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb292fcaf91194002d_gallery_line_3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beb292fcaf91194002d_gallery_line_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb292fcaf91194002d_gallery_line_3-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beb6195cd6c5c6adc8e_gallery_line_6-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb6195cd6c5c6adc8e_gallery_line_6-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beb6195cd6c5c6adc8e_gallery_line_6.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb6195cd6c5c6adc8e_gallery_line_6-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beba37d6238efab0e59_gallery_line_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beba37d6238efab0e59_gallery_line_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3beba37d6238efab0e59_gallery_line_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beba37d6238efab0e59_gallery_line_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebb721061cd0bfa1a1_gallery_line_1-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebb721061cd0bfa1a1_gallery_line_1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebb721061cd0bfa1a1_gallery_line_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebb721061cd0bfa1a1_gallery_line_1-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfa993c0afbd6a80_gallery_line_8-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfa993c0afbd6a80_gallery_line_8-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfa993c0afbd6a80_gallery_line_8.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfa993c0afbd6a80_gallery_line_8-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6342_gallery_line_4-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6342_gallery_line_4-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6342_gallery_line_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6342_gallery_line_4-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6345_gallery_line_5-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6345_gallery_line_5-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6345_gallery_line_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6345_gallery_line_5-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebfa7bd0746024489e_gallery_line_7-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebfa7bd0746024489e_gallery_line_7-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/648e3bebfa7bd0746024489e_gallery_line_7.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebfa7bd0746024489e_gallery_line_7-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492c46154274f9c46834fc7_about_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c46154274f9c46834fc7_about_1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ca_about_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ca_about_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ca_about_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ca_about_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ce_about_3-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ce_about_3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ce_about_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ce_about_3-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00a21a49a6e5123cc1c_dining_4-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a21a49a6e5123cc1c_dining_4-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00a21a49a6e5123cc1c_dining_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a21a49a6e5123cc1c_dining_4-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00a6a0732d2cb07cabc_sw_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a6a0732d2cb07cabc_sw_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00a6a0732d2cb07cabc_sw_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a6a0732d2cb07cabc_sw_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ae423ced7b7677d39_dining_3-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ae423ced7b7677d39_dining_3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ae423ced7b7677d39_dining_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ae423ced7b7677d39_dining_3-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00b65d1855cb137f67b_sw_5-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b65d1855cb137f67b_sw_5-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00b65d1855cb137f67b_sw_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b65d1855cb137f67b_sw_5-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00b8afd60ec4e3becf2_sw_1-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b8afd60ec4e3becf2_sw_1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00b8afd60ec4e3becf2_sw_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b8afd60ec4e3becf2_sw_1-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba817191a67fa6561_dining_5-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba817191a67fa6561_dining_5-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba817191a67fa6561_dining_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba817191a67fa6561_dining_5-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba8329201069f5336_sw_3-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba8329201069f5336_sw_3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba8329201069f5336_sw_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba8329201069f5336_sw_3-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba9c808d3c54efaed_dining_2-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba9c808d3c54efaed_dining_2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00ba9c808d3c54efaed_dining_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba9c808d3c54efaed_dining_2-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00bd53f84f396a6f5bc_sw_4-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00bd53f84f396a6f5bc_sw_4-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00bd53f84f396a6f5bc_sw_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00bd53f84f396a6f5bc_sw_4-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00be423ced7b7677dac_dining_1-p-500.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00be423ced7b7677dac_dining_1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/6492d00be423ced7b7677dac_dining_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00be423ced7b7677dac_dining_1-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/css/camelia-template.webflow.352f7fb82.css
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\css\camelia-template.webflow.352f7fb82.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/6487796ae399b003b0675fdd/js/webflow.accc9574a.js
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\js\webflow.accc9574a.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/6487796ae399b003b0675fdd/64877d19c53f8f89a26cc783_URWGothic-Book.otf
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\64877d19c53f8f89a26cc783_URWGothic-Book.otf
+Content Type: application/x-font-otf
+
+Uri: https://assets.website-files.com/6487796ae399b003b0675fdd/64877d215faff61111a78aa0_URWGothic-BookOblique.otf
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\64877d215faff61111a78aa0_URWGothic-BookOblique.otf
+Content Type: application/x-font-otf
+
+Uri: https://assets.website-files.com/6487796ae399b003b0675fdd/64877d7ecd79ee4fea47043c_URWGothic-Demi.otf
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\64877d7ecd79ee4fea47043c_URWGothic-Demi.otf
+Content Type: application/x-font-otf
+
+Uri: https://assets.website-files.com/6487796ae399b003b0675fdd/64877dbefd8f1f9d07793eab_URWGothic-DemiOblique.otf
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\64877dbefd8f1f9d07793eab_URWGothic-DemiOblique.otf
+Content Type: application/x-font-otf
+
+Uri: https://camelia-template.webflow.io/
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/about
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/book-now
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\book-now.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/dining
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\dining.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/spa-wellness
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\spa-wellness.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/stay
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\stay.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/suites/deluxe-suite
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\suites\deluxe-suite.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/suites/junior-suite
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\suites\junior-suite.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/suites/premium-suite
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\suites\premium-suite.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/template-info/changelog
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\template-info\changelog.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/template-info/licensing
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\template-info\licensing.html
+Content Type: text/html
+
+Uri: https://camelia-template.webflow.io/template-info/style-guide
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\template-info\style-guide.html
+Content Type: text/html
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/64878444ffe6f4c71a865a43_Favicon.png
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\64878444ffe6f4c71a865a43_Favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487844bc3df45039149260f_Webclip.png
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487844bc3df45039149260f_Webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487a251c58d392b8ae46756_blog.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487a251c58d392b8ae46756_blog.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487d1c5c3473ff5e5376abd_camelia-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487d1c5c3473ff5e5376abd_camelia-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487d1c5c3473ff5e5376abd_camelia-transcode.mp4
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487d1c5c3473ff5e5376abd_camelia-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487d1c5c3473ff5e5376abd_camelia-transcode.webm
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487d1c5c3473ff5e5376abd_camelia-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487dc6901c7affa85af9640_bell.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487dc6901c7affa85af9640_bell.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487dc69049d8f8a1437bc2d_phone.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487dc69049d8f8a1437bc2d_phone.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487dc694e4c6422f50fcb3b_long_arrow.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487dc694e4c6422f50fcb3b_long_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487f687215eac9007218f0e_logo_1.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487f687215eac9007218f0e_logo_1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6487f68793a1a6d6bbae8253_logo_2.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6487f68793a1a6d6bbae8253_logo_2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648919eb751d0f55b4d4f537_phone_dark.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648919eb751d0f55b4d4f537_phone_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648919ebd07e20dd4b319688_bell_dark.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648919ebd07e20dd4b319688_bell_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d1801cd6f265ba84276_service_1.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d1801cd6f265ba84276_service_1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d19117a2105ed7dc6ab_service_6.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d19117a2105ed7dc6ab_service_6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d1924d7794b9850a876_service_2.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d1924d7794b9850a876_service_2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d1924d7794b9850a8b4_service_3.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d1924d7794b9850a8b4_service_3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d19d9f5c9410a81662f_service_5.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d19d9f5c9410a81662f_service_5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a6d19f1b00eb246e78dcc_service_4.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a6d19f1b00eb246e78dcc_service_4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a782b6bfa922f5c138138_footer_1.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a782b6bfa922f5c138138_footer_1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a782b9e2d83664c009b23_footer_2.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a782b9e2d83664c009b23_footer_2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a7f1567de68a6c9e59c2d_instagram_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a7f1567de68a6c9e59c2d_instagram_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a7f156853962bcd0f4bbd_instagram_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a7f156853962bcd0f4bbd_instagram_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a7f157e26ec08fccc3e6e_instagram_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a7f157e26ec08fccc3e6e_instagram_4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a7f15f1b00eb246fb9e2a_instagram_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a7f15f1b00eb246fb9e2a_instagram_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a7f1624d7794b98661f27_instagram_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a7f1624d7794b98661f27_instagram_5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a8313f1b00eb246ff9bc4_instagram.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a8313f1b00eb246ff9bc4_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a98246434dae6dfb48788_slider_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98246434dae6dfb48788_slider_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a98248adb45a4fc8519e2_slider_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a98248adb45a4fc8519e2_slider_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a9824eb8ed148bd6b40f1_slider_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9824eb8ed148bd6b40f1_slider_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a9f5c2ab1776a4acb316f_long_arrow_1.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9f5c2ab1776a4acb316f_long_arrow_1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a9f5c5726afd6e49ac0af_long_arrow_2.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9f5c5726afd6e49ac0af_long_arrow_2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648a9f5da9f037e578104449_long_arrow_3.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648a9f5da9f037e578104449_long_arrow_3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648aa56a7e26ec08fcf78222_long_arrow_4.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648aa56a7e26ec08fcf78222_long_arrow_4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648aac580d85962f59226523_avatar_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648aac580d85962f59226523_avatar_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648aac5867378a0b048681bb_avatar_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648aac5867378a0b048681bb_avatar_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648aac5867378a0b048681dc_avatar_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648aac5867378a0b048681dc_avatar_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648d0a19e26cd07c0c1ff741_banner_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a19e26cd07c0c1ff741_banner_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648d0a1a117ce09c57628239_banner_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d0a1a117ce09c57628239_banner_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648d35db133d3a3e09bd1772_map.png
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d35db133d3a3e09bd1772_map.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648d412bcb7e6c2c3a39cfa2_special_offers.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648d412bcb7e6c2c3a39cfa2_special_offers.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3beb292fcaf91194002d_gallery_line_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb292fcaf91194002d_gallery_line_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3beb6195cd6c5c6adc8e_gallery_line_6.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beb6195cd6c5c6adc8e_gallery_line_6.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3beba37d6238efab0e59_gallery_line_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3beba37d6238efab0e59_gallery_line_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3bebb721061cd0bfa1a1_gallery_line_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebb721061cd0bfa1a1_gallery_line_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3bebdfa993c0afbd6a80_gallery_line_8.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfa993c0afbd6a80_gallery_line_8.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6342_gallery_line_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6342_gallery_line_4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3bebdfc7f86e44ec6345_gallery_line_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebdfc7f86e44ec6345_gallery_line_5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/648e3bebfa7bd0746024489e_gallery_line_7.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\648e3bebfa7bd0746024489e_gallery_line_7.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ca_about_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ca_about_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492c7ae6d3a5747ec6079ce_about_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492c7ae6d3a5747ec6079ce_about_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492ca814cb02e4387eaf370_signature_quote.svg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492ca814cb02e4387eaf370_signature_quote.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00a21a49a6e5123cc1c_dining_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a21a49a6e5123cc1c_dining_4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00a6a0732d2cb07cabc_sw_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00a6a0732d2cb07cabc_sw_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00ae423ced7b7677d39_dining_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ae423ced7b7677d39_dining_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00b65d1855cb137f67b_sw_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b65d1855cb137f67b_sw_5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00b8afd60ec4e3becf2_sw_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00b8afd60ec4e3becf2_sw_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00ba817191a67fa6561_dining_5.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba817191a67fa6561_dining_5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00ba8329201069f5336_sw_3.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba8329201069f5336_sw_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00ba9c808d3c54efaed_dining_2.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00ba9c808d3c54efaed_dining_2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00bd53f84f396a6f5bc_sw_4.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00bd53f84f396a6f5bc_sw_4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6487796ae399b003b0675fdd/6492d00be423ced7b7677dac_dining_1.webp
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\6487796ae399b003b0675fdd\6492d00be423ced7b7677dac_dining_1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d138cee8c1be65b448654_thumbnail_3-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d138cee8c1be65b448654_thumbnail_3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d138cee8c1be65b448654_thumbnail_3.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d138cee8c1be65b448654_thumbnail_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d139150ffe36443eab084_main_3-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d139150ffe36443eab084_main_3-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d139150ffe36443eab084_main_3-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d139150ffe36443eab084_main_3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d139150ffe36443eab084_main_3-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d139150ffe36443eab084_main_3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d139150ffe36443eab084_main_3.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d139150ffe36443eab084_main_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2117ce09c576a4866_gallery_2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2117ce09c576a4866_gallery_2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2117ce09c576a4866_gallery_2-p-1600.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2117ce09c576a4866_gallery_2-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2117ce09c576a4866_gallery_2-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2117ce09c576a4866_gallery_2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2117ce09c576a4866_gallery_2-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2117ce09c576a4866_gallery_2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2117ce09c576a4866_gallery_2.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2117ce09c576a4866_gallery_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a23092f153b452021b_gallery_3-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a23092f153b452021b_gallery_3-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a23092f153b452021b_gallery_3-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a23092f153b452021b_gallery_3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a23092f153b452021b_gallery_3-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a23092f153b452021b_gallery_3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a23092f153b452021b_gallery_3.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a23092f153b452021b_gallery_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2bbae7004f10e1455_gallery_1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2bbae7004f10e1455_gallery_1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2bbae7004f10e1455_gallery_1-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2bbae7004f10e1455_gallery_1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2bbae7004f10e1455_gallery_1-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2bbae7004f10e1455_gallery_1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13a2bbae7004f10e1455_gallery_1.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13a2bbae7004f10e1455_gallery_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13b7ee8c1be65b44a48f_thumbnail_2-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13b7ee8c1be65b44a48f_thumbnail_2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13b7ee8c1be65b44a48f_thumbnail_2.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13b7ee8c1be65b44a48f_thumbnail_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e4f915136724aaf06d_thumbnail_1-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e4f915136724aaf06d_thumbnail_1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e4f915136724aaf06d_thumbnail_1.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e4f915136724aaf06d_thumbnail_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e9e26cd07c0c26477d_main_1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e9e26cd07c0c26477d_main_1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e9e26cd07c0c26477d_main_1-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e9e26cd07c0c26477d_main_1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e9e26cd07c0c26477d_main_1-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e9e26cd07c0c26477d_main_1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/648d13e9e26cd07c0c26477d_main_1.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\648d13e9e26cd07c0c26477d_main_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/6492c1bd16eed3fa15f72651_main_2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\6492c1bd16eed3fa15f72651_main_2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/6492c1bd16eed3fa15f72651_main_2-p-500.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\6492c1bd16eed3fa15f72651_main_2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/6492c1bd16eed3fa15f72651_main_2-p-800.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\6492c1bd16eed3fa15f72651_main_2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/648d113950ffe36443e930a8/6492c1bd16eed3fa15f72651_main_2.jpg
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\648d113950ffe36443e930a8\6492c1bd16eed3fa15f72651_main_2.jpg
+Content Type: image/jpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6487796ae399b003b0675fdd
+File Name: C:\Downloaded Web Sites\camelia-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
