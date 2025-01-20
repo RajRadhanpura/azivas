@@ -146,8 +146,8 @@
                 <div class="footer-lower-content-block">
                     <div class="footer-copyright-text">&#169; <?= date('Y') ?> All Rights Reserved by Azivas Tiles
                     </div>
-                    <div class="footer-copyright-text">Powered by <a href="https://feelmarks.com"
-                            target="_blank" class="footer-copyright-link v2">Feelmarks Design</a></div>
+                    <div class="footer-copyright-text">Powered by <a href="https://kalatmakdesign.com"
+                            target="_blank" class="footer-copyright-link v2">Kalatmak</a></div>
                 </div>
             </div>
         </div>
